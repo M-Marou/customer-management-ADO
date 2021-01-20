@@ -1,0 +1,27 @@
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\bin\Debug\myFormApp1.exe
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\bin\Debug\myFormApp1.pdb
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Form1.resources
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Properties.Resources.resources
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.exe
+C:\Users\Youcode\Desktop\C# tuto\myFormApp1\myFormApp1\obj\Debug\myFormApp1.pdb
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\bin\Debug\myFormApp1.exe
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\bin\Debug\myFormApp1.pdb
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csprojAssemblyReference.cache
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Form1.resources
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Properties.Resources.resources
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.GenerateResource.cache
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.exe
+C:\Users\msckt\OneDrive\Bureau\myFormApp1\myFormApp1\obj\Debug\myFormApp1.pdb
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\bin\Debug\myFormApp1.exe
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\bin\Debug\myFormApp1.pdb
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csprojAssemblyReference.cache
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Form1.resources
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.Properties.Resources.resources
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.GenerateResource.cache
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.csproj.CoreCompileInputs.cache
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.exe
+C:\Users\Youcode\Desktop\brief\customer-management-ADO\myFormApp1\myFormApp1\obj\Debug\myFormApp1.pdb
